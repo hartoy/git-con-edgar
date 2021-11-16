@@ -1,8 +1,5 @@
 mi primer archivo de practica
-<<<<<<< HEAD
 
 
 Modificando el archivo de Ignacio.
-=======
 estoy modificando esto
->>>>>>> b9f02be1ef5b3b6fcc0acb3ca584c8b9162cde96
